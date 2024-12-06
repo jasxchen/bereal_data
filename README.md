@@ -3,7 +3,7 @@
 **Overview**
 
 This project uses the **BeReal Time History API** to analyze the timing of BeReal moments in the Americas region.
-- 
+
 The time periods are categorized in four:
 	•	Nighttime: 12:00 AM to 5:59 AM
 	•	Morning: 6:00 AM to 11:59 AM
